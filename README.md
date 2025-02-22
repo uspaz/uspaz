@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React Js, JavaScript**
 
-- 📫 How to reach me **Matias-Teijeiro2015@hotmail.com**
+- 📫 How to reach me **matiasteijeiro@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
