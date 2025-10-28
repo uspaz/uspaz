@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **matiasteijeiro@gmail.com**
 
-- 💻  Connect with me on LinkedIn <a href="https://www.linkedin.com/in/matias-teijeiro/">LinkedIn<a/>
+- 💻  Connect with me on LinkedIn <a href="https://www.linkedin.com/in/matias-teijeiro/" target="_blank">LinkedIn<a/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
